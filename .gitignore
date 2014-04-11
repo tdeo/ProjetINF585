@@ -1,8 +1,7 @@
-Grapher/Grapher
+Grapher/*
+Solver/*
 *~
 *.pro.user*
-Grapher/moc/*
-Solver/SolverBonmin
 *.o
 *.log
 *.old
