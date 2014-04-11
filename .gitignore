@@ -1,0 +1,9 @@
+Grapher/Grapher
+*~
+*.pro.user*
+Grapher/moc/*
+Solver/SolverBonmin
+*.o
+*.log
+*.old
+projet

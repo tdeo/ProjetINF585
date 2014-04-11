@@ -1,0 +1,10 @@
+5
+2
+B-BB
+1
+1
+strong-branching
+B-OA
+1
+1
+strong-branching
